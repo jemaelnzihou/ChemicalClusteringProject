@@ -21,8 +21,6 @@ This repository aims to:
 - 💡 **Connect** mathematical models to real-world scenarios—like plumbing, medical devices, reactors, and air conditioning.
 - 🌍 **Educate** students, professionals, and curious minds about the critical role of flow dynamics in everyday and industrial life.
 
----
-
 ## 📂 Project Structure
 
 FluidParticleDynamics/
@@ -36,41 +34,21 @@ FluidParticleDynamics/
 ├── Fluid-and-Particle-Dynamics.pdf  # Reference paper
 ├── requirements.txt
 └── README.md
-````
-
-Here is the GitHub-compatible `README.md` snippet you can directly **copy and paste** into your existing README file. I’ve converted the LaTeX-style equations into **Markdown-supported format** (escaped or rendered where supported on GitHub) and maintained all visual and structural clarity:
----
-
-## 📈 Sample Visualizations
-
-![Reynolds Simulation](images/sample_outputs.png)
-
----
 
 ## 🧠 Core Concepts Covered
 
 - **Reynolds Number**  
   Understand laminar vs. turbulent flow using:
 
-```
-
 Re = (ρ × v × D) / μ
-
-```
 
 - **Bernoulli’s Equation**  
 See energy conservation across pressure, velocity, and elevation:
 
-```
-
 P + ½ρv² + ρgh = constant
-
-```
 
 - **Navier-Stokes (Intro)**  
 Understand flow fields in CFD foundations.
-
----
 
 ## 🔍 Why It Matters
 
@@ -82,15 +60,11 @@ Fluid and particle dynamics control:
 - 🌬️ HVAC system airflow  
 - 🚿 Shower and plumbing efficiency  
 
----
-
 ## 📚 Reference Articles
 
 - [Continuity and Bernoulli’s Equations in Industrial Flow](https://doi.org/10.1016/j.ijheatfluidflow.2015.11.006)
 - [Fluid Dynamics in Reactor Design](https://doi.org/10.1016/j.ces.2019.03.046)
 - [Cyclone Separator Particle Flow](https://doi.org/10.1016/j.powtec.2017.11.064)
-
----
 
 ## 🙌 Acknowledgments
 
@@ -98,8 +72,6 @@ Fluid and particle dynamics control:
 - Developed for engineers, researchers, and students passionate about fluid mechanics
 
 📬 Questions? Contributions? Open an issue or fork the repo.
-
----
 
 ## 🔗 Follow the Project
 
