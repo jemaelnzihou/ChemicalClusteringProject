@@ -38,6 +38,7 @@ FluidParticleDynamics/
 └── README.md
 ````
 
+Here is the GitHub-compatible `README.md` snippet you can directly **copy and paste** into your existing README file. I’ve converted the LaTeX-style equations into **Markdown-supported format** (escaped or rendered where supported on GitHub) and maintained all visual and structural clarity:
 ---
 
 ## 📈 Sample Visualizations
@@ -48,22 +49,26 @@ FluidParticleDynamics/
 
 ## 🧠 Core Concepts Covered
 
-* **Reynolds Number**
+- **Reynolds Number**  
   Understand laminar vs. turbulent flow using:
 
-  $$
-  Re = \frac{\rho v D}{\mu}
-  $$
+```
 
-* **Bernoulli’s Equation**
-  See energy conservation across pressure, velocity, and elevation:
+Re = (ρ × v × D) / μ
 
-  $$
-  P + \frac{1}{2}\rho v^2 + \rho g h = \text{constant}
-  $$
+```
 
-* **Navier-Stokes (Intro)**
-  Understand flow fields in CFD foundations.
+- **Bernoulli’s Equation**  
+See energy conservation across pressure, velocity, and elevation:
+
+```
+
+P + ½ρv² + ρgh = constant
+
+```
+
+- **Navier-Stokes (Intro)**  
+Understand flow fields in CFD foundations.
 
 ---
 
@@ -71,24 +76,26 @@ FluidParticleDynamics/
 
 Fluid and particle dynamics control:
 
-* 🏭 Reactor safety & performance
-* 🩺 Medical devices like nebulizers
-* 🚗 Engine fuel-air mixing
-* 🌬️ HVAC system airflow
-* 🚿 Shower and plumbing efficiency
+- 🏭 Reactor safety & performance  
+- 🩺 Medical devices like nebulizers  
+- 🚗 Engine fuel-air mixing  
+- 🌬️ HVAC system airflow  
+- 🚿 Shower and plumbing efficiency  
+
+---
 
 ## 📚 Reference Articles
 
-* [Continuity and Bernoulli’s Equations in Industrial Flow](https://doi.org/10.1016/j.ijheatfluidflow.2015.11.006)
-* [Fluid Dynamics in Reactor Design](https://doi.org/10.1016/j.ces.2019.03.046)
-* [Cyclone Separator Particle Flow](https://doi.org/10.1016/j.powtec.2017.11.064)
+- [Continuity and Bernoulli’s Equations in Industrial Flow](https://doi.org/10.1016/j.ijheatfluidflow.2015.11.006)
+- [Fluid Dynamics in Reactor Design](https://doi.org/10.1016/j.ces.2019.03.046)
+- [Cyclone Separator Particle Flow](https://doi.org/10.1016/j.powtec.2017.11.064)
 
 ---
 
 ## 🙌 Acknowledgments
 
-* Inspired by academic resources and practical engineering knowledge.
-* Developed for engineers, researchers, and students passionate about fluid mechanics.
+- Inspired by academic resources and practical engineering knowledge  
+- Developed for engineers, researchers, and students passionate about fluid mechanics
 
 📬 Questions? Contributions? Open an issue or fork the repo.
 
@@ -96,5 +103,5 @@ Fluid and particle dynamics control:
 
 ## 🔗 Follow the Project
 
-💻 GitHub: [Chemical Clustering & Fluid Dynamics](https://github.com/jemaelnzihou/ChemicalClusteringProject)
+💻 GitHub: [Chemical Clustering & Fluid Dynamics](https://github.com/jemaelnzihou/ChemicalClusteringProject)  
 🧪 Built by: [Jemael Nzihou](https://jemaelnzihou.github.io/Portfolio/)
